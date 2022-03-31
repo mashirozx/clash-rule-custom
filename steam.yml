@@ -1,0 +1,54 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/steam
+# cb3e3de3e493f193a4a67a3a22125d615f1e1885
+
+# Behavior: domain
+
+# cSpell:disable
+
+payload:
+- "+.playartifact.com"
+- "+.s.team"
+- "+.steam-chat.com"
+- "+.steamcommunity.com"
+- "+.steamcontent.com"
+- "+.steamdeck.com"
+- "+.steamgames.com"
+- "+.steampowered.com"
+- "+.steamstatic.com"
+- "+.steamusercontent.com"
+- "+.underlords.com"
+- "+.valvesoftware.com"
+# 完美
+- "+.csgo.wmsj.cn"
+- "+.dota2.wmsj.cn"
+- "+.wmsjsteam.com"
+
+# 金山云
+- "+.dl.steam.clngaa.com"
+- "+.dl.steam.ksyna.com"
+
+# 白山云
+- "+.st.dl.bscstorage.net"
+- "+.st.dl.eccdnx.com"
+- "+.st.dl.pinyuncloud.com"
+
+# 华为云
+- "+.steampipe.steamcontent.tnkjmec.com"
+
+# 网宿
+- "+.steampowered.com.8686c.com"
+- "+.steamstatic.com.8686c.com"
+
+# 阿里云
+- "xz.pphimalayanrt.com"
+
+- "steambroadcast.akamaized.net"
+- "steamcdn-a.akamaihd.net"
+- "steamcommunity-a.akamaihd.net"
+- "steamstore-a.akamaihd.net"
+- "steamusercontent-a.akamaihd.net"
+- "steamuserimages-a.akamaihd.net"
+- "steamvideo-a.akamaihd.net"
+
+# 蒸汽中国
+- "+.steamchina.com"
