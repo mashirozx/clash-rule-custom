@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/steam
+# cb3e3de3e493f193a4a67a3a22125d615f1e1885
+
+# Behavior: domain
+
+# cSpell:disable
+
+payload:
+- "+.playartifact.com"
+- "+.s.team"
+- "+.steamcontent.com"
+- "+.steamdeck.com"
+- "+.steamgames.com"
+- "+.steampowered.com"
+- "+.steamstatic.com"
+- "+.steamusercontent.com"
+- "+.underlords.com"
+- "+.valvesoftware.com"
