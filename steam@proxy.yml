@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/steam
+# cb3e3de3e493f193a4a67a3a22125d615f1e1885
+
+# Behavior: domain
+
+# cSpell:disable
+
+payload:
+- "+.steamcommunity.com"
+- "+.steam-chat.com"
+
+- "steambroadcast.akamaized.net"
+- "steamcdn-a.akamaihd.net"
+- "steamcommunity-a.akamaihd.net"
+- "steamstore-a.akamaihd.net"
+- "steamusercontent-a.akamaihd.net"
+- "steamuserimages-a.akamaihd.net"
+- "steamvideo-a.akamaihd.net"
+
