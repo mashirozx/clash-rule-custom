@@ -1,0 +1,9 @@
+# Behavior: domain
+
+# cSpell:disable
+
+payload:
+
+# Bilibili
+# - "app.bilibili.com"
+- "api.bilibili.com"
