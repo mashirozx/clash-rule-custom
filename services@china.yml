@@ -1,3 +1,25 @@
+# Domain list for Chinese social media services, who
+# display user real IP location publicly.
+# Suggest proxy them with Chinese server, or you may 
+# suffer a service limitation due to your  their 
+# terms of service in your server's region.
+# Suggested rule example:
+# 
+# rule-providers:
+#   services@china:
+#     type: http
+#     behavior: domain
+#     url: "https://jsdelivr.moezx.cc/gh/mashirozx/clash-rule-custom@main/services@china.yml"
+#     path: ./ruleset/steam@cn.yaml
+#     interval: 86400
+#  rules:
+#    - RULE-SET,services@china,YOUR_PROXY_GROUP
+
+# Behavior: domain
+
+# cSpell:disable
+
+payload:
 # Weibo
 - "weibointl.api.weibo.cn"
 - "wbapp.mobile.sina.cn"
