@@ -32,8 +32,16 @@ payload:
 
 # Bilibili
 # seperation ver: https://github.com/mashirozx/clash-rule-custom/blob/main/bilibili.yml
-- "app.bilibili.com"
-- "api.bilibili.com"
-- "mall.bilibili.com"
-- "data.bilibili.com"
-- "interface.bilibili.com"
+- "+.bilibili.com"
+- "+.biliapi.com"
+- "+.biligame.com"
+- "+.biligame.net"
+# Too much... Whitelist some latter
+# - "app.bilibili.com"
+# - "api.bilibili.com"
+# - "mall.bilibili.com"
+# - "data.bilibili.com"
+# - "interface.bilibili.com"
+# - "grpx.biliapi.com"
+# - "api.vc.bilibili.com"
+# - "cm.bilibili.com"
