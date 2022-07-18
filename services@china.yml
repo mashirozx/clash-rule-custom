@@ -1,10 +1,9 @@
 # Domain list for Chinese social media services, who
 # display user real IP location publicly.
-# Suggest proxy them with Chinese server, or you may 
-# suffer a service limitation due to your  their 
+# Suggest proxy them with Chinese server, or you may
+# suffer a service limitation due to your  their
 # terms of service in your server's region.
-# Suggested rule example:
-# 
+# *Suggested rule example:*
 # rule-providers:
 #   services@china:
 #     type: http
