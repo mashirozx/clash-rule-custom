@@ -10,7 +10,7 @@
 #   services@china:
 #     type: http
 #     behavior: domain
-#     url: "https://jsdelivr.moezx.cc/gh/mashirozx/clash-rule-custom@main/services@china.yml"
+#     url: "https://raw.githubusercontent.com/mashirozx/clash-rule-custom/main/services@china.yml"
 #     path: ./ruleset/services@china.yaml
 #     interval: 86400
 #  rules:
