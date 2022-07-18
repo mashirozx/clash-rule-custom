@@ -3,7 +3,8 @@
 # Suggest proxy them with Chinese server, or you may
 # suffer a service limitation due to your  their
 # terms of service in your server's region.
-# *Suggested rule example:*
+# * Suggested rule example: *
+#
 # rule-providers:
 #   services@china:
 #     type: http
@@ -19,6 +20,7 @@
 # cSpell:disable
 
 payload:
+
 # Weibo
 - "weibointl.api.weibo.cn"
 - "wbapp.mobile.sina.cn"
