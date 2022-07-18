@@ -34,3 +34,6 @@ payload:
 # seperation ver: https://github.com/mashirozx/clash-rule-custom/blob/main/bilibili.yml
 - "app.bilibili.com"
 - "api.bilibili.com"
+- "mall.bilibili.com"
+- "data.bilibili.com"
+- "interface.bilibili.com"
