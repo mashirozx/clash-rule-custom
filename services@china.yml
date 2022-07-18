@@ -3,6 +3,7 @@
 # Suggest proxy them with Chinese server, or you may
 # suffer a service limitation due to your  their
 # terms of service in your server's region.
+#
 # * Suggested rule example: *
 #
 # rule-providers:
@@ -22,10 +23,12 @@
 payload:
 
 # Weibo
+# seperation ver: https://github.com/mashirozx/clash-rule-custom/blob/main/weibo.yml
 - "weibointl.api.weibo.cn"
 - "wbapp.mobile.sina.cn"
 - "api.weibo.cn"
 
 # Bilibili
-#- "app.bilibili.com"
+# seperation ver: https://github.com/mashirozx/clash-rule-custom/blob/main/bilibili.yml
+# - "app.bilibili.com"
 - "api.bilibili.com"
