@@ -1,0 +1,9 @@
+# Behavior: domain
+
+# cSpell:disable
+
+payload:
+# Weibo
+- "weibointl.api.weibo.cn"
+- "wbapp.mobile.sina.cn"
+- "api.weibo.cn"
