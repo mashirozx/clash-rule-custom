@@ -1,0 +1,12 @@
+# Behavior: domain
+
+# cSpell:disable
+
+payload:
+# *** Android Studio Download ***
+- "+.gvt1.com"
+# *** !Android Studio Download ***
+
+# *** Steam store ***
+- "+.store.steampowered.com"
+# *** !Steam store ***
